@@ -15,6 +15,10 @@ This project required use and programming of React. It addresses performance iss
 
 http://localhost:3000/c0y01202/React-Portfolio#resume
 
+or
+
+https://c0y01202.github.io/React-Portfolio/
+
 ## Link to Github Repository:
 
 https://github.com/c0y01202/React-Portfolio
