@@ -36,7 +36,7 @@ function Header() {
             target="_blank"
             href="https://github.com/c0y01202"
           >
-            <span className="content is-large">Claudia Chittim</span>
+            Claudia Chittim
           </a>
         </div>
       </nav>

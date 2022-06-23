@@ -9,7 +9,7 @@ function About() {
       <hr />
       <img
         className="my-pic"
-        src={process.env.PUBLIC_URL + "img/IMG_9495.jpg"}
+        src={process.env.PUBLIC_URL + "/img/IMG_9495.jpg"}
         alt="Claudia Chittim"
       />
       <p className="content is-italic mt-4">

@@ -29,7 +29,7 @@ const projects = [
     title: "The Tech Blog",
     languages: "html, css, js, handlebars",
     packages: "bcrypt, express handlebars.js, sequelize, express, Jest, mysql2",
-    image: "/img/tech_blog",
+    image: "/img/tech_blog.png",
     description:
       "Allows users to post information on tech related events and news!",
     live: "https://mighty-escarpment-27826.herokuapp.com/",

@@ -13,7 +13,8 @@ function Project(props) {
                 <figure className="image is-4by3">
                   <a href={project.live} target="_blank" rel="noreferrer">
                     <img
-                      src={process.env.PUBLIC_URL + project.img}
+                      style={{ height: 300, width: 300 }}
+                      src={process.env.PUBLIC_URL + project.image}
                       alt="Placeholder"
                     />
                   </a>

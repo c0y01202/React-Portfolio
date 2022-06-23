@@ -44,7 +44,7 @@ footer.footer {
   background-color: rgb(255, 255, 255);
 }
 
-
+ul {list-style:none}
 
 
 @media only screen and (max-width: 1024px) {
