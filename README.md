@@ -8,16 +8,22 @@ React is a front-end library and is widely used in well-known digital media appl
 
 This project required use and programming of React. It addresses performance issues using the concept of a virtual DOM. In addition to improving the user experience, React speeds up the development workflow. The purpose of this project was to build a single-page application (SPA). This SPA interacts with the browser by dynamically reqriting the currenct webpage with new data from the web server. This application should be useful to a potential employer who is looking for work samples in web development.
 
+## Phases of Project
+
+The inintial step was to create the React components for each section of this site. Each website component has its' own file located in the components folder. Conditional rendering was used with the `npm run` command. A contact form was added with a controlled component. Form data was validated and tested. 
+
 ## Dependencies
 
 1. React
 2. Jest
+3. GH Pages
 
-## Live URL:
+## Resources
 
-http://localhost:3000/c0y01202/React-Portfolio#resume
+1. Visual Studio
+2. GitHub
 
-or
+## Live Site on GitHub Pages:
 
 https://c0y01202.github.io/React-Portfolio/
 
